@@ -19,6 +19,10 @@
   Click the button, then open <b>ScreenVeil-Setup.exe</b>. That's it.
 </p>
 
+<p align="center">
+  <img src="assets/instant-privacy.gif" width="720" alt="Pressing Ctrl + Alt + H blurs the whole screen, and pressing it again brings everything back">
+</p>
+
 ---
 
 ## 🎬 See it in action
