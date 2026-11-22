@@ -24,9 +24,14 @@
 ## 🎬 See it in action
 
 <p align="center">
-  <a href="video/ScreenVeil-promo.mp4">
+  <a href="https://salmagz.github.io/ScreenVeil-Download/video.html">
     <img src="assets/video-poster.jpg" width="720" alt="Watch the ScreenVeil video">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://salmagz.github.io/ScreenVeil-Download/video.html"><b>▶ Watch the video</b></a> (with sound) ·
+  <a href="https://github.com/SalmaGz/ScreenVeil-Download/releases/latest/download/ScreenVeil-promo.mp4">Download it</a>
 </p>
 
 ## 💡 What is ScreenVeil?

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ScreenVeil video</title>
+  <meta name="description" content="ScreenVeil: a soft privacy curtain for your Windows screen.">
+  <link rel="icon" href="assets/logo.png">
+  <style>
+    :root { --ink: #3a2a5c; --soft: #7a6a99; --bg1: #fdf2f8; --bg2: #efe9fd; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; min-height: 100vh; padding: 32px 16px;
+      font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; color: var(--ink);
+      background: linear-gradient(135deg, var(--bg1), var(--bg2));
+      display: flex; flex-direction: column; align-items: center; gap: 22px;
+    }
+    header { display: flex; align-items: center; gap: 14px; }
+    header img { width: 56px; height: 56px; }
+    h1 { margin: 0; font-size: 32px; }
+    p { margin: 0; color: var(--soft); text-align: center; }
+    video {
+      width: 100%; max-width: 1040px; aspect-ratio: 16 / 9; border-radius: 18px; background: #e8def8;
+      box-shadow: 0 24px 60px rgba(90, 50, 140, .22);
+    }
+    .actions { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+    a.btn {
+      display: inline-flex; align-items: center; gap: 10px; padding: 14px 28px; border-radius: 999px;
+      font-weight: 700; font-size: 18px; text-decoration: none; color: #fff;
+      background: linear-gradient(135deg, #e98cc4, #a884ee); box-shadow: 0 8px 22px rgba(168, 132, 238, .35);
+    }
+    a.btn:hover { filter: brightness(1.05); }
+    a.link { align-self: center; color: var(--soft); font-weight: 600; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="">
+    <h1>ScreenVeil</h1>
+  </header>
+  <p>A soft privacy curtain for your Windows screen.</p>
+  <video src="video/ScreenVeil-promo.mp4" poster="assets/video-poster.jpg" controls autoplay playsinline preload="auto"></video>
+  <div class="actions">
+    <a class="btn" href="https://github.com/SalmaGz/ScreenVeil-Download/releases/latest/download/ScreenVeil-Setup.exe">⬇ Download for Windows</a>
+    <a class="link" href="https://github.com/SalmaGz/ScreenVeil-Download">Back to the page</a>
+  </div>
+</body>
+</html>
