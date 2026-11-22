@@ -106,10 +106,14 @@ ScreenVeil then lives in the system tray (bottom-right, next to the clock).
 
 **Where's the source code?** ScreenVeil is free to use but not open source, so this page only shares the app itself.
 
+## 📄 License
+
+ScreenVeil is free to download and use, but it is **not open source**. Please don't re-upload, sell or modify the app, its video or its artwork; sharing a link to this page is always welcome. See [LICENSE](LICENSE) for the full terms.
+
 ---
 
 <p align="center">
   <img src="assets/banner.png" width="560" alt="ScreenVeil: Your screen. Your space. Your privacy.">
 </p>
 
-<p align="center"><sub>© 2026 ScreenVeil. All rights reserved.</sub></p>
+<p align="center"><sub>© 2026 ScreenVeil (SalmaGz). All rights reserved.</sub></p>
