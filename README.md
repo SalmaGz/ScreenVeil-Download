@@ -67,6 +67,8 @@ You're in a café, on a train, or at the office. Someone walks behind you... and
 
 🔒 **100% offline.** No account, no tracking, nothing is ever sent anywhere.
 
+🛡️ **No peeking through Windows.** For more privacy, **Windows + Tab and Alt + Tab don't work while your screen is blurred** (or while part of it is covered), because Windows would show previews of all your open windows. They work again as soon as you unveil.
+
 ## ⌨️ Shortcuts
 
 | What | Keys |
@@ -76,7 +78,9 @@ You're in a café, on a train, or at the office. Someone walks behind you... and
 | Switch scene (blur ↔ wallpaper) | **Ctrl + Alt + N** |
 | Cover part of the screen / uncover | **Ctrl + Alt + B** |
 
-You can change any shortcut in the app.
+You can change any shortcut in the app: open ScreenVeil, go to **Shortcuts**, click a shortcut and press the new keys.
+
+> **While the screen is blurred, Windows + Tab and Alt + Tab are turned off** so nobody can see your windows through them. Your ScreenVeil shortcuts and **Windows + L** (lock) keep working.
 
 ## 📥 How to install
 
