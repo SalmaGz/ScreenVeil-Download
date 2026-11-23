@@ -102,6 +102,10 @@ ScreenVeil then lives in the system tray (bottom-right, next to the clock).
 
 **Does it collect any data?** No. ScreenVeil works fully offline and never connects to the internet.
 
+**Can someone peek with Alt+Tab or Task View?** No. While your screen is veiled, Task View (Win+Tab), Alt+Tab and the Start menu are blocked, and if Task View opens some other way (like a touchpad swipe), ScreenVeil closes it straight away.
+
+**I downloaded it before 23 November 2026. How do I update?** Download it again with the button above and run the installer. Your settings are kept.
+
 **The veil won't go away!** Press **Ctrl + Alt + H** again. A cover won't go away? Press **Ctrl + Alt + B**.
 
 **Where's the source code?** ScreenVeil is free to use but not open source, so this page only shares the app itself.
