@@ -102,7 +102,7 @@ ScreenVeil then lives in the system tray (bottom-right, next to the clock).
 
 **Does it collect any data?** No. ScreenVeil works fully offline and never connects to the internet.
 
-**Can someone peek with Alt+Tab or Task View?** No. While your screen is veiled or part of it is covered, Task View (Win+Tab) and Alt+Tab are blocked (and Start too while veiled). A touchpad swipe can't be blocked by any app, so if Task View opens that way, ScreenVeil closes it in a fraction of a second, again and again for as long as the swipe lasts.
+**Can someone peek with Alt+Tab or Task View?** No. While your screen is veiled or part of it is covered, Task View (Win+Tab) and Alt+Tab are blocked (and Start too while veiled). A touchpad swipe can't be blocked by any app, so if Task View opens that way, ScreenVeil closes it in about a tenth of a second, again and again for as long as the swipe lasts. To make it vanish that fast, Windows animations are switched off while the veil or a cover is up, and turned back on afterwards.
 
 **I downloaded it before 23 November 2026. How do I update?** Download it again with the button above and run the installer. Your settings are kept.
 
