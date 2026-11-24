@@ -67,6 +67,8 @@ You're in a café, on a train, or at the office. Someone walks behind you... and
 
 🔒 **100% offline.** No account, no tracking, nothing is ever sent anywhere.
 
+🎨 **Six themes.** Four soft pastel ones (Blush, Lavender, Cream, Midnight) plus a sleek **Black** and a clean **White**, with any accent color you like.
+
 🛡️ **No peeking through Windows.** For more privacy, **Windows + Tab and Alt + Tab don't work while your screen is blurred** (or while part of it is covered), because Windows would show previews of all your open windows. They work again as soon as you unveil.
 
 ## ⌨️ Shortcuts
